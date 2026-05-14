@@ -1,59 +1,88 @@
-<!-- BANNIÈRE DESIGN AVEC SON NOM -->
-<div align="center">
-  <img src="vercel.app[SON%20PRÉNOM]%20[SON%20NOM]&fontSize=40&animation=fadeIn" width="100%" />
-
-  <br/>
-  
-  <h3>🚀 Développeuse Full-Stack / Software Engineer</h3>
-  <p>Spécialisée dans la création d'applications performantes, scalables et centrées sur l'utilisateur.</p>
-
-  <!-- BADGES DE CONTACT PROFESSIONNELS -->
-  <a href="[LIEN_LINKEDIN]"><img src="shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:[SON_EMAIL]"><img src="shields.io" alt="Email" /></a>
-  <a href="[LIEN_PORTFOLIO]"><img src="shields.io" alt="Portfolio" /></a>
-</div>
-
-<br/>
-
-<hr />
-
-## 💼 À propos de moi
-
-* 🎯 **Objectif :** Actuellement à la recherche d'une opportunité en tant que **[Poste recherché]** (Alternance / CDI).
-* 🧪 **Projets :** Conception d'architectures clean code et intégration d'API REST.
-* ⚡ **Méthodologie :** Adepte des pratiques Agile, du versioning rigoureux et du clean code.
-
-<br/>
-
-## 🛠️ Compétences Techniques (Tech Stack)
-
-### Langages & Frameworks
-<p align="left">
-  <a href="mozilla.org" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="javascript" width="40" height="40"/></a>
-  <a href="reactjs.org" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="react" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="nodejs" width="40" height="40"/></a>
-  <a href="python.org" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="python" width="40" height="40"/></a>
+<!-- BADGE TOP COMMITTER -->
+<p align="center">
+  <a href="committers.top">
+    <img src="committers.top" alt="committers.top badge" />
+  </a>
 </p>
 
-### Outils & Base de données
-<p align="left">
-  <a href="git-scm.com" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="git" width="40" height="40"/></a>
-  <a href="docker.com" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="docker" width="40" height="40"/></a>
-  <a href="postgresql.org" target="_blank" rel="noreferrer"><img src="githubusercontent.com" alt="postgresql" width="40" height="40"/></a>
+<!-- EN-TÊTE PRINCIPALE -->
+<h2 align="center">I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
+<h3 align="center">🎓 Ph.D. Candidate in Information Technology</h3>
+
+<!-- RÉSEAUX SOCIAUX CENTRÉS -->
+<p align="center">
+  <a href="medium.com" target="_blank"><img src="shields.io" alt="Medium"></a>
+  <a href="linkedin.com" target="_blank"><img src="shields.io" alt="LinkedIn"></a>
+  <a href="twitter.com" target="_blank"><img src="shields.io" alt="X"></a>
+  <a href="facebook.com" target="_blank"><img src="shields.io" alt="Facebook"></a>
+  <a href="instagram.com" target="_blank"><img src="shields.io" alt="Instagram"></a>
+  <a href="dev.to" target="_blank"><img src="shields.io" alt="DevTo"></a>
+  <a href="leetcode.com" target="_blank"><img src="shields.io" alt="LeetCode"></a>
+</p>
+
+<!-- TROPHÉES GITHUB -->
+<p align="center">
+  <a href="vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="vercel.app" alt="GitHub Trophy">
+  </a>
 </p>
 
 <br/>
+<hr/>
 
-## 📊 Activité & Performance GitHub
+<!-- SECTION TECHNOLOGIES (GRILLE CORRIGÉE) -->
+<h3 align="left">🛠️ Technologies and Tools</h3>
 
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Github"/><br>Github</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Java"/><br>Java</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="MySQL"/><br>MySQL</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Docker"/><br>Docker</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="React"/><br>React</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="JS"/><br>JavaScript</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Python"/><br>Python</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="TS"/><br>TypeScript</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="AWS"/><br>AWS</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="icons8.com" width="50" height="50" alt="Bash"/><br>Bash</td>
+    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="C++"/><br>C++</td>
+    <td align="center" width="100"><img src="icons8.com" width="50" height="50" alt="Linux"/><br>Linux</td>
+    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="GraphQL"/><br>GraphQL</td>
+    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="MongoDB"/><br>MongoDB</td>
+    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="Nodejs"/><br>Node.js</td>
+    <td align="center" width="100"><img src="reactnative.dev" width="50" height="50" alt="React Native"/><br>React Native</td>
+    <td align="center" width="100"><img src="flutter.dev" width="50" height="50" alt="Flutter"/><br>Flutter</td>
+    <td align="center" width="100"><img src="githubusercontent.com" width="50" height="50" alt="Git"/><br>Git</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- BADGES PERSONNELS (LIENS SÉCURISÉS) -->
+<h3 align="left">🏅 Certification Badges</h3>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img src="githubusercontent.com" alt="Badge 1" width="150" /></td>
+    <td align="center"><img src="githubusercontent.com" alt="Badge 3" width="150" /></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- SECTION STATISTIQUES (ALIGNEMENT IMPECCABLE) -->
+<h3 align="left">📊 GitHub Stats 🔥</h3>
 <div align="center">
-  <table border="0">
+  <img src="herokuapp.com" alt="Streak Stats" width="100%" />
+  <br/><br/>
+  <table border="0" width="100%">
     <tr>
-      <td>
-        <img src="vercel.app[VOTRE_PSEUDO]&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" alt="Stats GitHub" height="180px" />
+      <td width="50%" align="center">
+        <img src="vercel.app" alt="Top Langs" height="200" />
       </td>
-      <td>
-        <img src="vercel.app[VOTRE_PSEUDO]&layout=compact&theme=visual_studio_dark" alt="Langages les plus utilisés" height="180px" />
+      <td width="50%" align="center">
+        <img src="vercel.app" alt="GitHub Stats" height="200" />
       </td>
     </tr>
   </table>
