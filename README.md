@@ -1,4 +1,4 @@
-<h2 align="center"> VOTRE NOM ET PRENOM</h2>
+<h2 align="center"> VOTRE NOM COMPLET NADA</h2>
 <h3 align="center">Fonction</h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
