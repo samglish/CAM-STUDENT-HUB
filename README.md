@@ -1,35 +1,34 @@
-[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
 
-<h2 align="center"> I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
-<h3 align="center">Ph.D. Candidate in Information Technology</h3>
+<h2 align="center"> VOTRE NOM ET PRENOM</h2>
+<h3 align="center">Fonction</h3>
 <div style="display: flex; justify-content: space-between;">
 <p align="center">
-   <a href="https://medium.com/@beidisamuel11">
+   <a href="https://medium.com/@username">
  <img src="https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white" alt="Medium">
   </a>
-  <a href="https://www.linkedin.com/in/beididinasamuel">
+  <a href="https://www.linkedin.com/in/@username">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/BeidiSamuel">
+  <a href="https://twitter.com/@username">
   <img src="https://img.shields.io/badge/(ex--Twitter)-%23000000.svg?logo=X&logoColor=white" alt="X (ex-Twitter)">
   </a>
-  <a href="https://web.facebook.com/profile.php?id=100007165625739">
+  <a href="https://web.facebook.com/@username">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/beidi_dina_samuel">
+  <a href="https://instagram.com/@username">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-    <a href="https://dev.to/samglish">
+    <a href="https://dev.to/@username">
 <img src="https://img.shields.io/badge/DEV%20Community-%23171717.svg?logo=DevTo&logoColor=white" alt="DevTo">
   </a>
-    <a href="https://leetcode.com/u/samglish/">
+    <a href="https://leetcode.com/u/@username/">
 <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
 </p>
 </div>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=@username&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=@username&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
   </a>
 </p>
 
@@ -119,12 +118,6 @@
     </td>
   </tr>
 </table>
-
-### Badges
-
-  
-| ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
-|---|---|
 
 
 ### Github Stats 🔥
