@@ -1,89 +1,150 @@
-<!-- BADGE TOP COMMITTER -->
+[![committers.top badge](https://user-badge.committers.top/cameroon/samglish.svg)](https://user-badge.committers.top/cameroon/samglish)
+
+<h2 align="center"> I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
+<h3 align="center">Ph.D. Candidate in Information Technology</h3>
+<div style="display: flex; justify-content: space-between;">
 <p align="center">
-  <a href="committers.top">
-    <img src="committers.top" alt="committers.top badge" />
+   <a href="https://medium.com/@beidisamuel11">
+ <img src="https://img.shields.io/badge/Medium-%2300AB6C.svg?logo=Medium&logoColor=white" alt="Medium">
+  </a>
+  <a href="https://www.linkedin.com/in/beididinasamuel">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/BeidiSamuel">
+  <img src="https://img.shields.io/badge/(ex--Twitter)-%23000000.svg?logo=X&logoColor=white" alt="X (ex-Twitter)">
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100007165625739">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/beidi_dina_samuel">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+    <a href="https://dev.to/samglish">
+<img src="https://img.shields.io/badge/DEV%20Community-%23171717.svg?logo=DevTo&logoColor=white" alt="DevTo">
+  </a>
+    <a href="https://leetcode.com/u/samglish/">
+<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+</div>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=samglish&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="GitHub Trophy">
   </a>
 </p>
 
-<!-- EN-TÊTE PRINCIPALE -->
-<h2 align="center">I’m BEIDI DINA SAMUEL — Cybersecurity enthusiast & Open Source lover. I’m all about building secure, open digital worlds. 🌐🔒</h2>
-<h3 align="center">🎓 Ph.D. Candidate in Information Technology</h3>
-
-<!-- RÉSEAUX SOCIAUX CENTRÉS -->
-<p align="center">
-  <a href="medium.com" target="_blank"><img src="shields.io" alt="Medium"></a>
-  <a href="linkedin.com" target="_blank"><img src="shields.io" alt="LinkedIn"></a>
-  <a href="twitter.com" target="_blank"><img src="shields.io" alt="X"></a>
-  <a href="facebook.com" target="_blank"><img src="shields.io" alt="Facebook"></a>
-  <a href="instagram.com" target="_blank"><img src="shields.io" alt="Instagram"></a>
-  <a href="dev.to" target="_blank"><img src="shields.io" alt="DevTo"></a>
-  <a href="leetcode.com" target="_blank"><img src="shields.io" alt="LeetCode"></a>
-</p>
-
-<!-- TROPHÉES GITHUB -->
-<p align="center">
-  <a href="vercel.app" target="_blank" rel="noopener noreferrer">
-    <img src="vercel.app" alt="GitHub Trophy">
-  </a>
-</p>
-
-<br/>
-<hr/>
-
-<!-- SECTION TECHNOLOGIES (GRILLE CORRIGÉE) -->
-<h3 align="left">🛠️ Technologies and Tools</h3>
+<h3 align="left" id="macropower-tech">Technologies and Tools</h3>
 
 <table align="center">
   <tr>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Github"/><br>Github</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Java"/><br>Java</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="MySQL"/><br>MySQL</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Docker"/><br>Docker</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="React"/><br>React</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="JS"/><br>JavaScript</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="Python"/><br>Python</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="TS"/><br>TypeScript</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="AWS"/><br>AWS</td>
-  </tr>
-  <tr>
-    <td align="center" width="100"><img src="icons8.com" width="50" height="50" alt="Bash"/><br>Bash</td>
-    <td align="center" width="100"><img src="vercel.app" width="50" height="50" alt="C++"/><br>C++</td>
-    <td align="center" width="100"><img src="icons8.com" width="50" height="50" alt="Linux"/><br>Linux</td>
-    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="GraphQL"/><br>GraphQL</td>
-    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="MongoDB"/><br>MongoDB</td>
-    <td align="center" width="100"><img src="skillicons.dev" width="50" height="50" alt="Nodejs"/><br>Node.js</td>
-    <td align="center" width="100"><img src="reactnative.dev" width="50" height="50" alt="React Native"/><br>React Native</td>
-    <td align="center" width="100"><img src="flutter.dev" width="50" height="50" alt="Flutter"/><br>Flutter</td>
-    <td align="center" width="100"><img src="githubusercontent.com" width="50" height="50" alt="Git"/><br>Git</td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+    <br>Java
+    </td>
+      <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65"/>
+        <br>Mysql
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+       </tr>
+<tr>
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/fluency/48/bash.png" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" width="65" height="65" >
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+      <img src="https://reactnative.dev/img/header_logo.svg"
+        width="65" height="65" alt="Git" />
+      <br>React_Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
+        width="65" height="65" alt="Git" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+        width="65" height="65" alt="Git" />
+      <br>Git
+       </tr>
+    </td>
   </tr>
 </table>
 
-<br/>
+### Badges
 
-<!-- BADGES PERSONNELS (LIENS SÉCURISÉS) -->
-<h3 align="left">🏅 Certification Badges</h3>
-<table align="center" border="0">
-  <tr>
-    <td align="center"><img src="githubusercontent.com" alt="Badge 1" width="150" /></td>
-    <td align="center"><img src="githubusercontent.com" alt="Badge 3" width="150" /></td>
-  </tr>
-</table>
+  
+| ![image description](https://github.com/samglish/samglish/blob/main/badge1.png) | ![image description](https://github.com/samglish/samglish/blob/main/baget3.png) |
+|---|---|
 
-<br/>
 
-<!-- SECTION STATISTIQUES (ALIGNEMENT IMPECCABLE) -->
-<h3 align="left">📊 GitHub Stats 🔥</h3>
-<div align="center">
-  <img src="herokuapp.com" alt="Streak Stats" width="100%" />
-  <br/><br/>
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="vercel.app" alt="Top Langs" height="200" />
-      </td>
-      <td width="50%" align="center">
-        <img src="vercel.app" alt="GitHub Stats" height="200" />
-      </td>
-    </tr>
-  </table>
-</div>
+### Github Stats 🔥
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samglish&theme=radical&date_format=j%20M%5B%20Y%5D&sideLabels=DDB225" alt="samglish" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samglish&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="samglish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samglish&show_icons=true&locale=en&theme=tokyonight" alt="samglish" /></p>
+
+  
+
+<!--
+**samglish/samglish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
